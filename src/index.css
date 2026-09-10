@@ -40,6 +40,8 @@
     --sidebar-accent-foreground: 240 4.8% 95.9%;
     --sidebar-border: 240 3.7% 15.9%;
     --sidebar-ring: 217.2 91.2% 59.8%;
+    --success: 132 61% 41%;
+    --success-foreground: 0 0% 100%;
   }
   .light {
     --background: 0 0% 100%;
@@ -87,6 +89,8 @@
     --sidebar-border: 220 13% 91%;
 
     --sidebar-ring: 217.2 91.2% 59.8%;
+    --success: 132 61% 41%;
+    --success-foreground: 0 0% 100%;
   }
 
   .dark {
@@ -98,6 +102,8 @@
 
     --popover: 222.2 84% 4.9%;
     --popover-foreground: 210 40% 98%;
+    --success: 132 61% 41%;
+    --success-foreground: 0 0% 100%;
 
     --primary: 210 40% 98%;
     --primary-foreground: 222.2 47.4% 11.2%;
